@@ -3,7 +3,7 @@
 🎂 Age: 16<br>
 🌍 Country: Czechia 🇨🇿<br>
 🌐 Website: https://lportf.eu<br>
-🖥️ Operating system: Arch linux<br>
+🖥️ Operating system: Debian GNU/Linux<br>
 
 ---
 ✅ Finished projects:
