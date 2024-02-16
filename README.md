@@ -34,7 +34,6 @@ I also exist.
 
 ## Links
 \> [duanin2](https://github.com/duanin2) - my friend<br>
-\> [Richard Stallman](https://stallman.org/)<br>
 \> [sdomi.pl](https://sdomi.pl/) - interesting programming blog<br>
 \> [Eric Murphy](https://ericmurphy.xyz/) - interesting youtuber
 
