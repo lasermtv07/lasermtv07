@@ -34,8 +34,8 @@ I also exist.
 ## Contact
 \> e-mail: lasermtv07@volny.cz
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasermtv07&hide=issues,prs&theme=dracula)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lasermtv07&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lasermtv07&hide=issues,prs&theme=dracula)
 
 ---
 (c) lasermtv07, 2024 - under CC-BY-SA 4.0
